@@ -341,3 +341,10 @@ section {
         padding: 10px 15px;
     }
 }
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .navbar-brand {
+        font-size: 25px !important;
+    }
+}
